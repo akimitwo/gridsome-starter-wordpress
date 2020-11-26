@@ -18,7 +18,7 @@ module.exports = {
     {
       use: '@gridsome/source-wordpress',
       options: {
-        baseUrl: 'YOUR_WEBSITE_URL', // required
+        baseUrl: 'https://www.1banzaka.com', // required
         typeName: 'WordPress', // GraphQL schema name
       }
     }
